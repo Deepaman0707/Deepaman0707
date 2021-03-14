@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Deepaman0707
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning how thing works at industrial level.
-- 💞️ I’m looking to collaborate on various real life projects.
-- 📫 How to reach me :- deep.aman07.ad@gmail.com is my E-mail.
+- 👀 I’m interested in programming and project building.
+- 🌱 I’m currently learning how things work at industrial level.
+- 💞️ I’m looking to collaborate on various real life projects as well as Hackathons.
+- 📫 How to reach me :- deep.aman07.ad@gmail.com .
 
 <!---
 Deepaman0707/Deepaman0707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
